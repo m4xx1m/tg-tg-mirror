@@ -1,0 +1,6 @@
+venv
+.env
+.idea
+volumes
+__pycache__
+bot.session
